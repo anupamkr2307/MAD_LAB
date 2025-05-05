@@ -1,5 +1,5 @@
 # MAD_LAB
-# Android Animation
+
 
 
 <img src="https://github.com/Kaushal-04/AndroidAnimation/blob/master/Screenshots/UI.jpg" height="600">
