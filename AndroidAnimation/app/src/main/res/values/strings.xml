@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="sc">Scale</string>
+    <string name="ro">Rotate</string>
+    <string name="tr">Translate</string>
+    <string name="al">Alpha</string>
+
+</resources>
